@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Online IUL Attendance Portal Service(UI):jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Online_IUL_Attendance_Portal_Service_UI__jar</output-path>
+    <root id="archive" name="Online IUL Attendance Portal Service.jar">
+      <element id="module-output" name="Online IUL Attendance Portal Service" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-java-5.1.21.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
